@@ -26,7 +26,8 @@ go run server/main.go
 ```
 
 Deve se obter essa resposta
-...
+
+![image](https://user-images.githubusercontent.com/26884793/193913839-3cf3a472-6ace-4cca-b988-334eb5b9d1b2.png)
 
 2. Rodar Cliente
 
@@ -34,7 +35,9 @@ Deve se obter essa resposta
 go run client/main.go
 ```
 Deve se obter essa resposta
-...
+
+![image](https://user-images.githubusercontent.com/26884793/193913920-e3c343d2-b82f-4624-8b4b-7c21540b6f6d.png)
+
 
 ### Implementação
 
