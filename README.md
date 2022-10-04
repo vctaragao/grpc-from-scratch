@@ -38,6 +38,9 @@ Deve se obter essa resposta
 
 ![image](https://user-images.githubusercontent.com/26884793/193913920-e3c343d2-b82f-4624-8b4b-7c21540b6f6d.png)
 
+Ao voltar para o terminal do servidor, se terá essa resposta
+
+![image](https://user-images.githubusercontent.com/26884793/193914172-eb2220de-ef5d-4de1-97ca-306aff02c363.png)
 
 ### Implementação
 
